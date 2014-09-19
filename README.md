@@ -1,0 +1,1 @@
+Angular + Rails application configured using the following tutorial: http://start.jcolemorrison.com/setting-up-an-angularjs-and-rails-4-1-project/
